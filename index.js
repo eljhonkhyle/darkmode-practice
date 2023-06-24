@@ -12,7 +12,7 @@ if(this.classList.toggle('bi-brightness-low-fill')){
 }else{
     (this.classList.toggle('bi-brightness-high-fill'))
     body.style.background = 'white'
-    body.style.color = 'black'
+    body.style.color = '#111111'
     body.style.transition = '1s'
 }
 
